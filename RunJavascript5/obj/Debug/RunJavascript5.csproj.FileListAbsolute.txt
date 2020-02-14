@@ -1,0 +1,8 @@
+D:\Workspace\Visual Studio 2019\RunJavascript5\RunJavascript5\bin\Debug\RunJavascript5.exe.config
+D:\Workspace\Visual Studio 2019\RunJavascript5\RunJavascript5\bin\Debug\RunJavascript5.exe
+D:\Workspace\Visual Studio 2019\RunJavascript5\RunJavascript5\bin\Debug\RunJavascript5.pdb
+D:\Workspace\Visual Studio 2019\RunJavascript5\RunJavascript5\bin\Debug\Jint.dll
+D:\Workspace\Visual Studio 2019\RunJavascript5\RunJavascript5\obj\Debug\RunJavascript5.csprojAssemblyReference.cache
+D:\Workspace\Visual Studio 2019\RunJavascript5\RunJavascript5\obj\Debug\RunJavascript5.csproj.CopyComplete
+D:\Workspace\Visual Studio 2019\RunJavascript5\RunJavascript5\obj\Debug\RunJavascript5.exe
+D:\Workspace\Visual Studio 2019\RunJavascript5\RunJavascript5\obj\Debug\RunJavascript5.pdb
